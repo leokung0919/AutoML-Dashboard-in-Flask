@@ -2,29 +2,33 @@
 ### This project is about an AutoML Dashboard made by package "Dash" , which can help a beginner make data analysis  with no code !
 
 # Upload Data
-![image](https://github.com/leokung0919/AutoML-Dashboard-in-Flask/assets/137593809/6d66399e-cd89-463f-9e9f-887462a039f7)
+![image](https://github.com/leokung0919/AutoML-Dashboard-in-Flask/assets/137593809/20020553-1431-4af0-810b-24a39c8026b8)
+
 
 # EDA
-![image](https://github.com/leokung0919/AutoML-Dashboard-in-Flask/assets/137593809/83236a32-93f7-44ef-8e75-84cebbb8ce7e)
-![image](https://github.com/leokung0919/AutoML-Dashboard-in-Flask/assets/137593809/4e6dff80-1e70-4322-8422-c6b40deaacf9)
+![image](https://github.com/leokung0919/AutoML-Dashboard-in-Flask/assets/137593809/0ae059bd-2949-4550-95c2-b41b39657fea)
 
 # Missing Value
-![image](https://github.com/leokung0919/AutoML-Dashboard-in-Flask/assets/137593809/33915d7c-155b-4d8f-af66-d5aea1b5b334)
-![image](https://github.com/leokung0919/AutoML-Dashboard-in-Flask/assets/137593809/2a48df9d-b42c-4417-a2be-a49085e251fd)
+![image](https://github.com/leokung0919/AutoML-Dashboard-in-Flask/assets/137593809/07619484-d79c-4347-812c-01ea12a2868c)
+![image](https://github.com/leokung0919/AutoML-Dashboard-in-Flask/assets/137593809/f4a5d0e0-4e20-4ddd-a967-595c2182fad1)
 
 # Encoding
-![image](https://github.com/leokung0919/AutoML-Dashboard-in-Flask/assets/137593809/e6690be9-40d9-4aa5-a094-92345b066ef9)
+![image](https://github.com/leokung0919/AutoML-Dashboard-in-Flask/assets/137593809/4775bfb7-8a07-45aa-bbc2-5955fb972ff9)
+
 
 # Standardization
-![image](https://github.com/leokung0919/AutoML-Dashboard-in-Flask/assets/137593809/a03bccfb-cf59-4f7e-902f-7b78941641a3)
+![image](https://github.com/leokung0919/AutoML-Dashboard-in-Flask/assets/137593809/0ecb42a6-7a42-4307-979c-16b456361bf8)
+
 
 # Feature Selection
-![image](https://github.com/leokung0919/AutoML-Dashboard-in-Flask/assets/137593809/f7acd15f-233d-457b-8c2e-92ade324ebf5)
-![image](https://github.com/leokung0919/AutoML-Dashboard-in-Flask/assets/137593809/766aaffa-f44b-44f6-a1f5-fd0e27edacdb)
-![image](https://github.com/leokung0919/AutoML-Dashboard-in-Flask/assets/137593809/3d4ebb82-9c5b-4896-8d06-15eb1f6972ae)
+![image](https://github.com/leokung0919/AutoML-Dashboard-in-Flask/assets/137593809/37de0754-3ba6-4907-8518-7b7c64b32262)
+![image](https://github.com/leokung0919/AutoML-Dashboard-in-Flask/assets/137593809/45cb5b50-8578-4db0-a1af-c15d6d06bc17)
+![image](https://github.com/leokung0919/AutoML-Dashboard-in-Flask/assets/137593809/99fa8fd0-bda3-4ab0-9abf-753eea432b4f)
+
 
 # Prediction
-![image](https://github.com/leokung0919/AutoML-Dashboard-in-Flask/assets/137593809/c962267e-8d84-4511-8163-6297e90b318e)
-![image](https://github.com/leokung0919/AutoML-Dashboard-in-Flask/assets/137593809/3d81c0b3-a5d1-442e-9555-7a591f508d2c)
-![image](https://github.com/leokung0919/AutoML-Dashboard-in-Flask/assets/137593809/03bd6527-8569-49a5-9230-7871f291c5dc)
+![image](https://github.com/leokung0919/AutoML-Dashboard-in-Flask/assets/137593809/cc79cb91-7563-4243-9336-8f3cb3b7aa6e)
+![image](https://github.com/leokung0919/AutoML-Dashboard-in-Flask/assets/137593809/603cc1b6-22e4-4e88-9e43-6bf610a52283)
+![image](https://github.com/leokung0919/AutoML-Dashboard-in-Flask/assets/137593809/0fa4c952-fab8-4db8-8f42-163cc026bcb3)
+
 
