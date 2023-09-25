@@ -27,3 +27,4 @@
 ![image](https://github.com/leokung0919/AutoML-Dashboard-in-Flask/assets/137593809/c962267e-8d84-4511-8163-6297e90b318e)
 ![image](https://github.com/leokung0919/AutoML-Dashboard-in-Flask/assets/137593809/3d81c0b3-a5d1-442e-9555-7a591f508d2c)
 ![image](https://github.com/leokung0919/AutoML-Dashboard-in-Flask/assets/137593809/03bd6527-8569-49a5-9230-7871f291c5dc)
+
